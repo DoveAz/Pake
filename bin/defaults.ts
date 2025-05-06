@@ -11,7 +11,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
   appVersion: '1.0.0',
   darkMode: false,
   disabledWebShortcuts: false,
-  activationShortcut: '',
+  activationShortcut: 'Ctrl+G',
   userAgent: '',
   showSystemTray: false,
   multiArch: false,
